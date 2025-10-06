@@ -1,0 +1,501 @@
+customer_id,name,city,persona
+1,Pål Sivertsen,Oslo,Busy Parent
+2,Kjersti Thomassen,Sandnes,Busy Parent
+3,Emil-Dag Thomassen,Stavanger,Bargain Hunter
+4,Magne Holm,Bodø,Busy Parent
+5,Emilie Karlsen,Haugesund,Bargain Hunter
+6,Cathrine Aas,Trondheim,Bargain Hunter
+7,Maria Haugen,Porsgrunn,Bargain Hunter
+8,Sander Birkeland,Bodø,Busy Parent
+9,Karoline Johansen,Bodø,Bargain Hunter
+10,Tor Henriksen-Bøe,Tønsberg,Quality Seeker
+11,Ann-Sofie Knutsen,Oslo,Busy Parent
+12,Dag-Finn Hauge,Drammen,Busy Parent
+13,Ida Myhre,Skien,Busy Parent
+14,Silje Jenssen,Fredrikstad,Quality Seeker
+15,Kjell Danielsen,Skien,Student
+16,Camilla Ellingsen,Sandefjord,Bargain Hunter
+17,Mette Andreassen,Ålesund,Bargain Hunter
+18,Alf Kristiansen,Bergen,Busy Parent
+19,Espen Halvorsen,Bodø,Busy Parent
+20,Randi Vik,Sandefjord,Bargain Hunter
+21,Trine-Eli Haugen,Sarpsborg,Bargain Hunter
+22,Ole Knudsen,Hamar,Student
+23,Tobias Andersen,Ålesund,Student
+24,Asbjørn Andersen,Trondheim,Busy Parent
+25,Nina-Siv Pedersen,Sandnes,Bargain Hunter
+26,Prof. Andreas Strøm,Trondheim,Busy Parent
+27,Cathrine Lie,Stavanger,Student
+28,Gro Arnesen,Tønsberg,Quality Seeker
+29,Sigurd Jacobsen,Ålesund,Busy Parent
+30,Laila Christensen,Ålesund,Bargain Hunter
+31,Jan Dahl,Tromsø,Bargain Hunter
+32,Roger Helland,Trondheim,Busy Parent
+33,Eirik-Karl Engen,Drammen,Busy Parent
+34,Jorunn Brekke,Sandnes,Busy Parent
+35,Jan Ødegård,Sandefjord,Bargain Hunter
+36,Sondre Eliassen,Bodø,Quality Seeker
+37,Kenneth Brekke,Skien,Bargain Hunter
+38,Ole-Sebastian Myhre,Bergen,Student
+39,Mette Larsen,Bergen,Bargain Hunter
+40,Emma Thomassen,Sandefjord,Student
+41,Håkon Eriksen-Hanssen,Fredrikstad,Quality Seeker
+42,Ivar Hanssen,Arendal,Student
+43,Mari Moen,Skien,Student
+44,Sigrid Myhre,Moss,Bargain Hunter
+45,Wenche Kristensen,Tønsberg,Quality Seeker
+46,Linda-Randi Strøm,Kristiansand,Bargain Hunter
+47,Per-Frank Solberg,Bodø,Bargain Hunter
+48,Ole Ødegård,Arendal,Busy Parent
+49,Dr. Svein Henriksen,Arendal,Quality Seeker
+50,Linda Ruud,Sandnes,Quality Seeker
+51,Vilde-Grethe Næss,Kristiansand,Student
+52,Odd Helland,Trondheim,Busy Parent
+53,Stig Hanssen,Stavanger,Busy Parent
+54,Helene Danielsen,Drammen,Bargain Hunter
+55,Øystein Evensen,Haugesund,Busy Parent
+56,Helene-Randi Hauge,Sandefjord,Busy Parent
+57,Adrian Eliassen,Tønsberg,Quality Seeker
+58,Eivind-Sigurd Ødegård,Bodø,Busy Parent
+59,Siri Engen,Oslo,Student
+60,Hege Antonsen,Stavanger,Busy Parent
+61,Hanne-Britt Ødegård,Bodø,Busy Parent
+62,Øyvind Johnsen,Skien,Busy Parent
+63,Fredrik Rønning,Haugesund,Bargain Hunter
+64,Eli Berge,Oslo,Bargain Hunter
+65,Markus Tveit-Johannessen,Tromsø,Student
+66,Monica-Nora Sandvik,Drammen,Student
+67,Sofie Svendsen,Stavanger,Busy Parent
+68,Alf Knudsen,Sarpsborg,Student
+69,Emil-Vegard Nygård,Porsgrunn,Student
+70,Anne Berntsen,Kristiansand,Busy Parent
+71,Unni Holm,Drammen,Quality Seeker
+72,Hege Solheim,Porsgrunn,Busy Parent
+73,Erik-Tobias Moe,Hamar,Student
+74,Camilla Thorsen-Sørensen,Oslo,Quality Seeker
+75,Grete Nilsen,Ålesund,Bargain Hunter
+76,Gro Hanssen,Sarpsborg,Student
+77,Dag Aune,Sandnes,Bargain Hunter
+78,Dr. Håvard Olsen,Trondheim,Student
+79,Kristine Brekke,Moss,Bargain Hunter
+80,Petter-Marius Kristoffersen,Bodø,Student
+81,John-Leif Solheim,Kristiansand,Busy Parent
+82,Nora Sivertsen,Bodø,Busy Parent
+83,Julie Knutsen,Porsgrunn,Bargain Hunter
+84,Liv Solheim,Haugesund,Student
+85,Øyvind-Erling Sørensen,Bodø,Student
+86,Kjell Solberg,Fredrikstad,Busy Parent
+87,Bjørg Engen,Sandefjord,Busy Parent
+88,Hanna Halvorsen,Ålesund,Student
+89,Prof. Sigurd Hagen,Porsgrunn,Quality Seeker
+90,Thomas-Andreas Ruud,Sandnes,Quality Seeker
+91,Thor Eliassen,Skien,Bargain Hunter
+92,Nils Eriksen,Bodø,Bargain Hunter
+93,Øyvind Evensen-Hansen,Sandnes,Bargain Hunter
+94,Leif Eriksen-Sæther,Bergen,Bargain Hunter
+95,Anna Andersen,Bergen,Bargain Hunter
+96,Roar Martinsen-Abrahamsen,Trondheim,Student
+97,Vidar-Kristoffer Martinsen,Tromsø,Busy Parent
+98,Ellen Lien,Fredrikstad,Busy Parent
+99,Helene Halvorsen,Arendal,Busy Parent
+100,Tom Rasmussen,Sandnes,Busy Parent
+101,Erling Moen,Haugesund,Busy Parent
+102,Stine Gulbrandsen,Stavanger,Bargain Hunter
+103,Line Amundsen,Ålesund,Busy Parent
+104,Solveig Brekke,Tønsberg,Quality Seeker
+105,Anette Ahmed,Bergen,Student
+106,Trine Gulbrandsen,Stavanger,Busy Parent
+107,Siri Ruud,Skien,Bargain Hunter
+108,Vilde Tangen,Stavanger,Student
+109,Stig-Hans Jakobsen,Fredrikstad,Bargain Hunter
+110,Ellen Jørgensen,Kristiansand,Busy Parent
+111,Eirik Næss,Tromsø,Quality Seeker
+112,Thomas-Finn Christensen,Trondheim,Quality Seeker
+113,Sigrid Hanssen,Bodø,Quality Seeker
+114,Hilde Jensen,Bodø,Bargain Hunter
+115,Thomas Myhre-Vik,Trondheim,Student
+116,Reidun Madsen,Sandnes,Student
+117,Sara Jenssen,Moss,Bargain Hunter
+118,Siv-Emilie Jenssen,Sandefjord,Quality Seeker
+119,John Vik,Drammen,Student
+120,Emil Strøm,Sandefjord,Quality Seeker
+121,Dr. Tor Karlsen,Tønsberg,Quality Seeker
+122,Turid Moen-Kristiansen,Bodø,Quality Seeker
+123,Thor Tangen,Moss,Busy Parent
+124,Henrik Ellingsen,Sarpsborg,Bargain Hunter
+125,Harald Fredriksen,Bergen,Bargain Hunter
+126,Ola Rønning,Bodø,Busy Parent
+127,Johan Ellingsen-Henriksen,Skien,Bargain Hunter
+128,Irene Christensen,Arendal,Bargain Hunter
+129,Turid Jørgensen-Brekke,Porsgrunn,Quality Seeker
+130,Karin Berge,Porsgrunn,Bargain Hunter
+131,Ann Andersen,Drammen,Bargain Hunter
+132,Vegard-Tom Johnsen,Trondheim,Bargain Hunter
+133,Magne-Nils Larsen,Sandnes,Busy Parent
+134,Roar Hagen,Arendal,Quality Seeker
+135,Sander Helland,Hamar,Bargain Hunter
+136,Karen Myhre,Trondheim,Bargain Hunter
+137,Sondre Jacobsen,Arendal,Quality Seeker
+138,Sindre Solheim,Skien,Busy Parent
+139,Sander Lie,Fredrikstad,Student
+140,Karen Thomassen,Skien,Busy Parent
+141,Sverre-Ole Evensen,Sandefjord,Bargain Hunter
+142,Tobias-Tore Pedersen,Sarpsborg,Bargain Hunter
+143,Håkon Halvorsen,Trondheim,Quality Seeker
+144,Finn Ahmed,Hamar,Bargain Hunter
+145,Helene Bakken,Stavanger,Student
+146,Karin Jensen-Isaksen,Fredrikstad,Bargain Hunter
+147,Stine Jenssen,Kristiansand,Busy Parent
+148,Olav Hauge,Trondheim,Student
+149,Ole Strand,Ålesund,Student
+150,Hege Iversen,Tønsberg,Quality Seeker
+151,Geir Hansen,Sarpsborg,Student
+152,Joakim Lunde,Porsgrunn,Busy Parent
+153,Kristine Fredriksen,Bodø,Bargain Hunter
+154,Hans Amundsen,Stavanger,Quality Seeker
+155,Daniel Holm,Kristiansand,Student
+156,Anders Fredriksen,Stavanger,Quality Seeker
+157,Emil Lien,Kristiansand,Busy Parent
+158,Siri-Inger Strand,Hamar,Quality Seeker
+159,Julie-Hanne Larsen,Skien,Bargain Hunter
+160,Dr. Jonas Aasen,Tromsø,Bargain Hunter
+161,Per Myhre,Tromsø,Busy Parent
+162,Emil Johnsen,Bergen,Student
+163,Stian-Robert Myklebust,Haugesund,Bargain Hunter
+164,Sebastian-Karl Jenssen,Bergen,Student
+165,Gunnar Eide,Kristiansand,Bargain Hunter
+166,Siri Tangen,Tromsø,Busy Parent
+167,Leif Edvardsen,Tønsberg,Bargain Hunter
+168,Frank Pettersen,Haugesund,Busy Parent
+169,Jonas-Roger Ellingsen,Stavanger,Busy Parent
+170,Fredrik Berg,Kristiansand,Bargain Hunter
+171,Marie Danielsen,Ålesund,Busy Parent
+172,Håkon Ruud-Henriksen,Kristiansand,Busy Parent
+173,Bjørn Dahl,Bergen,Quality Seeker
+174,Johan Brekke,Bergen,Quality Seeker
+175,Dr. Morten Johannessen,Fredrikstad,Student
+176,Roger Myklebust-Gulbrandsen,Stavanger,Busy Parent
+177,Sofie Haugen,Bodø,Quality Seeker
+178,Anita Hauge,Haugesund,Student
+179,Petter Moe,Kristiansand,Student
+180,Aud-Janne Moen,Sandnes,Student
+181,Jørgen-Robert Martinsen,Drammen,Student
+182,Harald Johnsen,Oslo,Student
+183,Egil Nguyen,Skien,Bargain Hunter
+184,Magne Nielsen,Haugesund,Busy Parent
+185,Henrik Aas,Sandnes,Student
+186,Torill Helland-Moen,Stavanger,Quality Seeker
+187,Sofie-Marit Haugland,Bergen,Quality Seeker
+188,Dr. Frank Hansen,Sandnes,Student
+189,Tore Pedersen-Sandvik,Tønsberg,Bargain Hunter
+190,Lars Jakobsen,Sandnes,Quality Seeker
+191,Hilde Strand,Fredrikstad,Bargain Hunter
+192,Sander-Tore Simonsen,Tromsø,Quality Seeker
+193,Øyvind Madsen,Tromsø,Student
+194,Tone Halvorsen,Porsgrunn,Quality Seeker
+195,Bjørg Rønning,Bodø,Quality Seeker
+196,John Dahl,Oslo,Quality Seeker
+197,Eva Henriksen,Tromsø,Bargain Hunter
+198,Torill Myhre,Tromsø,Bargain Hunter
+199,Hege Aasen,Hamar,Bargain Hunter
+200,Elisabeth Ellingsen,Skien,Quality Seeker
+201,Emil Knutsen,Porsgrunn,Quality Seeker
+202,Kristin Hauge,Arendal,Bargain Hunter
+203,Nina Myklebust,Bergen,Bargain Hunter
+204,Hans Andreassen,Oslo,Busy Parent
+205,Johan-Jens Olsen,Bodø,Busy Parent
+206,Rolf Knutsen,Fredrikstad,Busy Parent
+207,Marie Vik,Trondheim,Quality Seeker
+208,Per Halvorsen-Aasen,Skien,Student
+209,Marie Mathisen,Stavanger,Busy Parent
+210,Nina Thomassen-Martinsen,Sarpsborg,Busy Parent
+211,Sigurd-Roger Abrahamsen,Haugesund,Busy Parent
+212,Berit Bakken,Sarpsborg,Quality Seeker
+213,Irene Eliassen,Fredrikstad,Busy Parent
+214,Dr. Håkon Isaksen,Sandefjord,Quality Seeker
+215,Thor Pettersen,Drammen,Busy Parent
+216,Marit-Marianne Thomassen,Sarpsborg,Busy Parent
+217,Anna Ødegård,Oslo,Quality Seeker
+218,Frank Ali,Fredrikstad,Quality Seeker
+219,Cecilie Nilsen,Arendal,Quality Seeker
+220,Rune Lunde,Skien,Busy Parent
+221,Joakim Berntsen-Knudsen,Tønsberg,Quality Seeker
+222,Gro Moe,Porsgrunn,Busy Parent
+223,Kjersti Nygård,Drammen,Quality Seeker
+224,Prof. Martin Danielsen,Sarpsborg,Busy Parent
+225,Lars Jørgensen,Hamar,Busy Parent
+226,Helene Nguyen-Sæther,Sandnes,Quality Seeker
+227,Anne-Britt Aas,Sandnes,Busy Parent
+228,Grethe Aune,Kristiansand,Student
+229,Joakim Simonsen,Sandnes,Bargain Hunter
+230,Hanne-Cathrine Tangen,Hamar,Student
+231,Silje Andreassen-Antonsen,Trondheim,Student
+232,Alexander Svendsen,Arendal,Quality Seeker
+233,Eirik Brekke,Sandefjord,Bargain Hunter
+234,Anita-Sissel Amundsen,Sandnes,Quality Seeker
+235,Svein Birkeland,Oslo,Bargain Hunter
+236,Øyvind-Stig Berg,Stavanger,Student
+237,Unni Aasen,Sandnes,Busy Parent
+238,Anne Thomassen,Porsgrunn,Bargain Hunter
+239,Dr. Magnus Holm,Bodø,Quality Seeker
+240,Cathrine Halvorsen,Stavanger,Bargain Hunter
+241,Irene Sivertsen,Tønsberg,Quality Seeker
+242,Jon-Øystein Danielsen,Bodø,Busy Parent
+243,Emma-Sissel Andreassen,Tønsberg,Busy Parent
+244,Dag-Morten Berntsen,Porsgrunn,Busy Parent
+245,Prof. Espen Pettersen,Bodø,Quality Seeker
+246,Kristoffer Edvardsen,Drammen,Quality Seeker
+247,Adrian Lunde,Moss,Busy Parent
+248,Karin Tveit,Sandnes,Quality Seeker
+249,Stig-Kjell Knutsen,Tromsø,Student
+250,Roger Knutsen,Porsgrunn,Busy Parent
+251,Øyvind Johannessen,Sandnes,Quality Seeker
+252,Dr. Øyvind Jakobsen,Trondheim,Quality Seeker
+253,Laila Lie,Sandnes,Busy Parent
+254,Prof. Einar Ruud,Skien,Quality Seeker
+255,Ingeborg Ellingsen-Eriksen,Trondheim,Student
+256,Magnus Berg-Sivertsen,Sandnes,Bargain Hunter
+257,Irene-Kristin Johnsen,Kristiansand,Quality Seeker
+258,Silje-Elisabeth Simonsen,Trondheim,Busy Parent
+259,Tommy Madsen,Skien,Quality Seeker
+260,Grete Bøe,Haugesund,Busy Parent
+261,Sebastian Andreassen,Haugesund,Bargain Hunter
+262,Leif Kristiansen,Arendal,Quality Seeker
+263,Dr. Knut Sandvik,Oslo,Student
+264,Henrik Iversen,Arendal,Student
+265,Per-Johan Ali,Oslo,Quality Seeker
+266,Erik Moe,Sarpsborg,Student
+267,Heidi Thomassen,Haugesund,Busy Parent
+268,Kenneth Isaksen,Bodø,Busy Parent
+269,Kåre Jenssen,Sandnes,Busy Parent
+270,Anders Haugland,Tromsø,Quality Seeker
+271,Trine Jensen,Oslo,Quality Seeker
+272,Robert-Olav Knudsen,Sandefjord,Quality Seeker
+273,Mathias Nguyen,Tønsberg,Busy Parent
+274,Janne Lund,Hamar,Student
+275,Linda Rønning,Sandefjord,Busy Parent
+276,Johannes Hanssen,Oslo,Busy Parent
+277,Marit-Berit Bakke,Haugesund,Bargain Hunter
+278,Anna Haugen,Tønsberg,Bargain Hunter
+279,Kristian Aas,Tromsø,Bargain Hunter
+280,Kristoffer Tveit,Fredrikstad,Quality Seeker
+281,Prof. Jan Næss,Skien,Quality Seeker
+282,Gro Hagen,Sandefjord,Busy Parent
+283,Henrik Ahmed,Haugesund,Quality Seeker
+284,Håvard Olsen-Jakobsen,Trondheim,Quality Seeker
+285,Mathias-Vegard Evensen,Bodø,Quality Seeker
+286,Vidar Moe,Ålesund,Bargain Hunter
+287,Elise Moe,Trondheim,Bargain Hunter
+288,Kim Pettersen,Bergen,Busy Parent
+289,Håkon Knudsen,Sandnes,Busy Parent
+290,Bjørn Rasmussen,Oslo,Bargain Hunter
+291,Kåre Thorsen,Sandnes,Busy Parent
+292,Sara Birkeland-Tangen,Stavanger,Bargain Hunter
+293,Martine Helland,Fredrikstad,Busy Parent
+294,Stig Næss,Tromsø,Quality Seeker
+295,Emil Hagen,Drammen,Busy Parent
+296,Mathias Myklebust,Stavanger,Busy Parent
+297,Janne Hagen,Drammen,Busy Parent
+298,Sigrid Holm,Stavanger,Student
+299,Sara Solheim,Sarpsborg,Busy Parent
+300,Tor Sandvik,Sandefjord,Busy Parent
+301,Bjørg Aasen,Fredrikstad,Quality Seeker
+302,Håkon Moen,Sandnes,Bargain Hunter
+303,Dr. Sander Svendsen,Sarpsborg,Bargain Hunter
+304,Nina-Ann Brekke,Hamar,Student
+305,Einar-Stian Haug,Arendal,Student
+306,Øystein Ali-Engen,Ålesund,Busy Parent
+307,Torill Nielsen,Ålesund,Busy Parent
+308,Siri-Stine Moen,Skien,Bargain Hunter
+309,Sigurd Brekke,Haugesund,Bargain Hunter
+310,Helge Berntsen,Stavanger,Student
+311,Astrid Ellingsen,Ålesund,Quality Seeker
+312,Joakim-Johannes Arnesen,Tønsberg,Busy Parent
+313,Hege-Karoline Aasen,Haugesund,Busy Parent
+314,Nina Jensen,Porsgrunn,Bargain Hunter
+315,Kenneth Lund,Tromsø,Student
+316,Irene Sivertsen,Bodø,Busy Parent
+317,Olav Haugland,Tønsberg,Busy Parent
+318,Harald Aas,Arendal,Quality Seeker
+319,Roger Halvorsen,Sandnes,Quality Seeker
+320,Håvard Amundsen,Trondheim,Student
+321,Jan-Rolf Nilsen,Tønsberg,Quality Seeker
+322,Hilde Sivertsen,Tønsberg,Bargain Hunter
+323,Silje Fredriksen,Sandefjord,Busy Parent
+324,Helene-Marie Tangen,Moss,Quality Seeker
+325,Karoline-Siri Myhre,Drammen,Student
+326,Ruth Lien,Ålesund,Quality Seeker
+327,Gunn-Ida Nilsen,Skien,Busy Parent
+328,Anna Vik,Hamar,Quality Seeker
+329,Reidun Sæther,Tromsø,Busy Parent
+330,Britt Knutsen,Porsgrunn,Busy Parent
+331,Johan-Geir Rasmussen,Trondheim,Student
+332,Irene Eliassen,Haugesund,Bargain Hunter
+333,Randi Pettersen,Sandnes,Quality Seeker
+334,Alexander Bakken,Moss,Busy Parent
+335,Lene Andersen,Oslo,Quality Seeker
+336,Arne Nguyen,Sandnes,Bargain Hunter
+337,Helge-Jørgen Larsen,Sandnes,Quality Seeker
+338,Janne Berntsen-Holm,Arendal,Quality Seeker
+339,Arild Ahmed,Bodø,Quality Seeker
+340,Steinar Haugen,Haugesund,Busy Parent
+341,Emil Hanssen,Bodø,Student
+342,Tove Edvardsen,Tønsberg,Quality Seeker
+343,Turid Mikkelsen,Tromsø,Quality Seeker
+344,Ingrid Sandvik,Fredrikstad,Bargain Hunter
+345,Odd Nguyen,Bodø,Quality Seeker
+346,Stine-Aud Sæther,Drammen,Student
+347,Irene-Lene Hansen,Moss,Bargain Hunter
+348,Hanna Johansen,Arendal,Quality Seeker
+349,Marianne Nielsen,Porsgrunn,Student
+350,Sondre-Ole Rønning,Stavanger,Busy Parent
+351,Joakim Olsen,Sarpsborg,Student
+352,Prof. Kristian Berntsen,Drammen,Bargain Hunter
+353,Ragnhild Hauge,Bodø,Quality Seeker
+354,Jan Jensen,Bergen,Bargain Hunter
+355,Johan Solheim,Bodø,Student
+356,Bjørn-Petter Rønning,Kristiansand,Quality Seeker
+357,Aud-Karen Lien,Moss,Busy Parent
+358,Gerd-Hilde Myklebust,Oslo,Bargain Hunter
+359,Helene Lunde,Moss,Busy Parent
+360,Dr. Roger Strøm,Skien,Quality Seeker
+361,Kristin-Karen Nguyen,Bergen,Bargain Hunter
+362,Terje Lien,Moss,Quality Seeker
+363,Tone Sandvik,Trondheim,Bargain Hunter
+364,Ingeborg Lien-Johnsen,Trondheim,Quality Seeker
+365,Ragnhild Johnsen,Bergen,Busy Parent
+366,Vilde Thomassen,Arendal,Bargain Hunter
+367,Stine Andersen,Trondheim,Student
+368,Kåre Jenssen,Stavanger,Student
+369,Roar-Svein Kristensen,Haugesund,Busy Parent
+370,Kim Lien,Hamar,Busy Parent
+371,Sondre Solberg,Porsgrunn,Bargain Hunter
+372,Roger Myhre,Tønsberg,Quality Seeker
+373,Harald Nguyen,Arendal,Quality Seeker
+374,Tove Knudsen,Sarpsborg,Student
+375,Knut-Dag Johannessen,Bergen,Busy Parent
+376,Kirsten Lunde,Stavanger,Busy Parent
+377,Maria-Anette Andresen,Fredrikstad,Student
+378,Vegard Pettersen,Tromsø,Busy Parent
+379,Wenche Kristiansen-Tveit,Drammen,Busy Parent
+380,Else Eriksen,Bodø,Bargain Hunter
+381,Anne Moen,Oslo,Bargain Hunter
+382,Eivind Strand,Hamar,Quality Seeker
+383,Prof. Sigurd Brekke,Bergen,Quality Seeker
+384,Espen Rønning,Sarpsborg,Bargain Hunter
+385,Aud-Line Simonsen,Tønsberg,Busy Parent
+386,Else-Elin Pettersen,Sandnes,Bargain Hunter
+387,Sofie Bakke,Arendal,Student
+388,Cecilie Dahl,Fredrikstad,Busy Parent
+389,Line-Eli Sivertsen,Bodø,Quality Seeker
+390,Anette-Emilie Eide,Kristiansand,Bargain Hunter
+391,Prof. Dag Iversen,Kristiansand,Student
+392,Kari Abrahamsen,Drammen,Bargain Hunter
+393,Nina Engen,Hamar,Busy Parent
+394,Sofie Mikkelsen,Arendal,Busy Parent
+395,Mette-Cathrine Solberg,Tønsberg,Student
+396,Jens Aas,Sarpsborg,Bargain Hunter
+397,Jenny Solheim,Tromsø,Busy Parent
+398,Tobias Sandvik-Sivertsen,Moss,Busy Parent
+399,Mona Abrahamsen,Hamar,Quality Seeker
+400,Bente Andreassen,Haugesund,Bargain Hunter
+401,Daniel Nielsen,Hamar,Busy Parent
+402,Emil Jenssen,Trondheim,Quality Seeker
+403,Markus Jenssen,Arendal,Bargain Hunter
+404,Dr. Jens Moe,Oslo,Busy Parent
+405,Alf Johnsen-Bøe,Tromsø,Student
+406,Irene Madsen,Drammen,Busy Parent
+407,Bjørg Brekke-Ruud,Tønsberg,Quality Seeker
+408,Kjetil Hagen,Drammen,Student
+409,Daniel-Frank Pettersen,Haugesund,Student
+410,Jonas Bøe,Moss,Busy Parent
+411,Lene Lund,Moss,Student
+412,Aud Strøm,Skien,Quality Seeker
+413,Jenny Simonsen,Stavanger,Quality Seeker
+414,Sigrid Myklebust,Skien,Student
+415,Marit Lien,Moss,Quality Seeker
+416,Øyvind Andreassen,Sandefjord,Quality Seeker
+417,Emilie Engen,Bodø,Student
+418,Maria Mathisen,Trondheim,Bargain Hunter
+419,John Lunde,Skien,Quality Seeker
+420,Andrea Sandvik,Sandefjord,Bargain Hunter
+421,Hanna Andresen,Oslo,Student
+422,Eivind Ali,Bodø,Busy Parent
+423,Lene Berge,Bergen,Quality Seeker
+424,Ragnhild Henriksen-Christensen,Ålesund,Bargain Hunter
+425,Leif Bakke,Moss,Busy Parent
+426,Morten Aune-Bakke,Bergen,Busy Parent
+427,Roger Andreassen,Bodø,Bargain Hunter
+428,Emilie Solheim,Sarpsborg,Bargain Hunter
+429,Janne Ali,Moss,Quality Seeker
+430,Rita Kristiansen,Hamar,Bargain Hunter
+431,Ida-Gunn Karlsen,Drammen,Busy Parent
+432,Hans Myklebust,Oslo,Quality Seeker
+433,Henrik Kristoffersen,Trondheim,Busy Parent
+434,Robert Eide-Mathisen,Stavanger,Bargain Hunter
+435,Ruth Pettersen,Stavanger,Quality Seeker
+436,Gunnar Kristoffersen,Kristiansand,Busy Parent
+437,Roar Henriksen,Sarpsborg,Quality Seeker
+438,Irene Isaksen,Tromsø,Busy Parent
+439,Inger-Unni Sivertsen,Moss,Quality Seeker
+440,Marit Rasmussen,Sandnes,Student
+441,Vilde Isaksen,Kristiansand,Quality Seeker
+442,Roger-Arild Strand,Hamar,Quality Seeker
+443,Bjørg Henriksen,Kristiansand,Busy Parent
+444,Kari Gundersen-Johannessen,Tromsø,Student
+445,Sondre Madsen,Haugesund,Busy Parent
+446,Vidar Lie,Porsgrunn,Quality Seeker
+447,Rune Larsen,Oslo,Quality Seeker
+448,Petter Andresen,Sarpsborg,Quality Seeker
+449,Ole Solheim-Aas,Arendal,Student
+450,Johannes Martinsen,Moss,Student
+451,Cecilie-Kristine Arnesen,Tønsberg,Student
+452,Thea Lunde,Ålesund,Busy Parent
+453,Tor Johansen,Bodø,Quality Seeker
+454,Marianne Mikkelsen,Skien,Quality Seeker
+455,Siv Gundersen,Sandnes,Student
+456,Berit Myhre,Sandnes,Busy Parent
+457,Arne Berge,Haugesund,Student
+458,Emil Vik,Moss,Bargain Hunter
+459,Janne-Nina Haugen,Sandefjord,Busy Parent
+460,Kåre-Kjetil Halvorsen,Kristiansand,Quality Seeker
+461,Torill Thorsen,Bergen,Quality Seeker
+462,Torbjørn Strøm,Arendal,Bargain Hunter
+463,Synnøve Johnsen,Stavanger,Quality Seeker
+464,Ellen Evensen-Rønning,Tønsberg,Student
+465,Marius Knutsen,Tønsberg,Bargain Hunter
+466,Egil-Knut Dahl,Kristiansand,Bargain Hunter
+467,Martin Henriksen,Kristiansand,Quality Seeker
+468,Egil Myhre,Tromsø,Bargain Hunter
+469,Knut Bøe,Sandefjord,Quality Seeker
+470,Johan Sørensen,Skien,Busy Parent
+471,Rune Haugen-Helland,Bodø,Student
+472,Tommy Jensen,Skien,Quality Seeker
+473,Arild Bakken,Moss,Busy Parent
+474,Thor Antonsen,Bergen,Student
+475,Gro Haugen,Sandnes,Busy Parent
+476,Cecilie Tveit,Sarpsborg,Busy Parent
+477,Andreas-Anders Bøe,Trondheim,Student
+478,Emilie Brekke,Stavanger,Quality Seeker
+479,Steinar Simonsen,Stavanger,Busy Parent
+480,Marianne-Maria Thomassen,Sarpsborg,Quality Seeker
+481,Hanna Jakobsen,Bergen,Student
+482,Vilde Jenssen,Bergen,Quality Seeker
+483,Linn Abrahamsen,Ålesund,Quality Seeker
+484,Sigurd Amundsen,Sandnes,Quality Seeker
+485,Per-Jørgen Danielsen,Arendal,Busy Parent
+486,Gunn Hagen,Drammen,Busy Parent
+487,Grethe Martinsen,Trondheim,Bargain Hunter
+488,Odd Bøe-Nguyen,Sandefjord,Busy Parent
+489,Ruth-Else Myklebust,Sandnes,Busy Parent
+490,Tonje Arnesen,Arendal,Quality Seeker
+491,John Pettersen,Tønsberg,Bargain Hunter
+492,Gro Sivertsen,Tønsberg,Busy Parent
+493,Simen Sandvik,Oslo,Quality Seeker
+494,Terje Amundsen,Tønsberg,Student
+495,Roger Thomassen,Bodø,Student
+496,Prof. Morten Hansen,Tønsberg,Bargain Hunter
+497,Mari Tangen,Arendal,Student
+498,Karen Lie,Haugesund,Quality Seeker
+499,Tone Paulsen,Tønsberg,Busy Parent
+500,Mari Svendsen,Fredrikstad,Student
