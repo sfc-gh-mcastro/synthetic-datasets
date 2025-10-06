@@ -1,6 +1,6 @@
 ### **Objective**
 
-To create a synthetic, yet realistic, customer review dataset for Norgesgruppen stores. This dataset should be structured to allow for joins with existing store data (@store\_list.csv), product data (@product\_list.csv), and the hackathon's structured sales data. The reviews should reflect a range of customer experiences, sentiments, and topics relevant to grocery shopping in Norway.
+To create a synthetic, yet realistic, customer review dataset for stores. This dataset should be structured to allow for joins with existing store data (@store\_list.csv), product data (@product\_list.csv), and the hackathon's structured sales data. The reviews should reflect a range of customer experiences, sentiments, and topics relevant to grocery shopping in Norway.
 
 ---
 

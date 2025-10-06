@@ -1,6 +1,6 @@
-# Norgesgruppen Synthetic Customer Reviews Dataset
+# Synthetic Customer Reviews Dataset
 
-This repository contains synthetic customer review data for Norgesgruppen stores, generated according to the plan in `Norgesgruppen-SyntheticData-Plan.md`.
+This repository contains synthetic customer review data for stores, generated according to the plan in `SyntheticData-Plan.md`.
 
 ## 📁 Generated Files
 
@@ -34,7 +34,7 @@ Synthetic customer reviews with the following schema:
 | `sentiment_score` | Float | Sentiment score (-1 to 1) |
 
 ### 3. Input Data Files
-- `store_list.csv`: 848 Norgesgruppen stores (KIWI, MENY, SPAR, EUROSPAR, Joker, Nærbutikken, Jacobs)
+- `store_list.csv`: 848 stores (KIWI, MENY, SPAR, EUROSPAR, Joker, Nærbutikken, Jacobs)
 - `product_list.csv`: 36 products across categories (Grillmat, Sjømat, Frukt og Grønt, etc.)
 
 ## 📊 Dataset Statistics
